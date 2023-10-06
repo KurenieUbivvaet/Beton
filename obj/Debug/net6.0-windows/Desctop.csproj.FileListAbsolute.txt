@@ -1,0 +1,94 @@
+E:\шарага\С#\Project\Desctop\bin\Debug\net6.0-windows\Desctop.exe
+E:\шарага\С#\Project\Desctop\bin\Debug\net6.0-windows\Desctop.deps.json
+E:\шарага\С#\Project\Desctop\bin\Debug\net6.0-windows\Desctop.runtimeconfig.json
+E:\шарага\С#\Project\Desctop\bin\Debug\net6.0-windows\Desctop.dll
+E:\шарага\С#\Project\Desctop\bin\Debug\net6.0-windows\Desctop.pdb
+E:\шарага\С#\Project\Desctop\obj\Debug\net6.0-windows\Desctop.csproj.AssemblyReference.cache
+E:\шарага\С#\Project\Desctop\obj\Debug\net6.0-windows\Desctop.FormLogin.resources
+E:\шарага\С#\Project\Desctop\obj\Debug\net6.0-windows\Desctop.FormRegistration.resources
+E:\шарага\С#\Project\Desctop\obj\Debug\net6.0-windows\Desctop.csproj.GenerateResource.cache
+E:\шарага\С#\Project\Desctop\obj\Debug\net6.0-windows\Desctop.GeneratedMSBuildEditorConfig.editorconfig
+E:\шарага\С#\Project\Desctop\obj\Debug\net6.0-windows\Desctop.AssemblyInfoInputs.cache
+E:\шарага\С#\Project\Desctop\obj\Debug\net6.0-windows\Desctop.AssemblyInfo.cs
+E:\шарага\С#\Project\Desctop\obj\Debug\net6.0-windows\Desctop.csproj.CoreCompileInputs.cache
+E:\шарага\С#\Project\Desctop\obj\Debug\net6.0-windows\Desctop.dll
+E:\шарага\С#\Project\Desctop\obj\Debug\net6.0-windows\refint\Desctop.dll
+E:\шарага\С#\Project\Desctop\obj\Debug\net6.0-windows\Desctop.pdb
+E:\шарага\С#\Project\Desctop\obj\Debug\net6.0-windows\Desctop.genruntimeconfig.cache
+E:\шарага\С#\Project\Desctop\obj\Debug\net6.0-windows\ref\Desctop.dll
+F:\шарага\С#\Project\Desctop\bin\Debug\net6.0-windows\Desctop.exe
+F:\шарага\С#\Project\Desctop\bin\Debug\net6.0-windows\Desctop.deps.json
+F:\шарага\С#\Project\Desctop\bin\Debug\net6.0-windows\Desctop.runtimeconfig.json
+F:\шарага\С#\Project\Desctop\bin\Debug\net6.0-windows\Desctop.dll
+F:\шарага\С#\Project\Desctop\bin\Debug\net6.0-windows\Desctop.pdb
+F:\шарага\С#\Project\Desctop\obj\Debug\net6.0-windows\Desctop.csproj.AssemblyReference.cache
+F:\шарага\С#\Project\Desctop\obj\Debug\net6.0-windows\Desctop.FormLogin.resources
+F:\шарага\С#\Project\Desctop\obj\Debug\net6.0-windows\Desctop.FormRegistration.resources
+F:\шарага\С#\Project\Desctop\obj\Debug\net6.0-windows\Desctop.csproj.GenerateResource.cache
+F:\шарага\С#\Project\Desctop\obj\Debug\net6.0-windows\Desctop.GeneratedMSBuildEditorConfig.editorconfig
+F:\шарага\С#\Project\Desctop\obj\Debug\net6.0-windows\Desctop.AssemblyInfoInputs.cache
+F:\шарага\С#\Project\Desctop\obj\Debug\net6.0-windows\Desctop.AssemblyInfo.cs
+F:\шарага\С#\Project\Desctop\obj\Debug\net6.0-windows\Desctop.csproj.CoreCompileInputs.cache
+F:\шарага\С#\Project\Desctop\obj\Debug\net6.0-windows\Desctop.dll
+F:\шарага\С#\Project\Desctop\obj\Debug\net6.0-windows\refint\Desctop.dll
+F:\шарага\С#\Project\Desctop\obj\Debug\net6.0-windows\Desctop.pdb
+F:\шарага\С#\Project\Desctop\obj\Debug\net6.0-windows\Desctop.genruntimeconfig.cache
+F:\шарага\С#\Project\Desctop\obj\Debug\net6.0-windows\ref\Desctop.dll
+F:\шарага\С#\Project\Desctop\obj\Debug\net6.0-windows\Desctop.FormRegData.resources
+D:\OneDrive\Рабочий стол\Desctop\bin\Debug\net6.0-windows\Desctop.exe
+D:\OneDrive\Рабочий стол\Desctop\bin\Debug\net6.0-windows\Desctop.deps.json
+D:\OneDrive\Рабочий стол\Desctop\bin\Debug\net6.0-windows\Desctop.runtimeconfig.json
+D:\OneDrive\Рабочий стол\Desctop\bin\Debug\net6.0-windows\Desctop.dll
+D:\OneDrive\Рабочий стол\Desctop\bin\Debug\net6.0-windows\Desctop.pdb
+D:\OneDrive\Рабочий стол\Desctop\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\OneDrive\Рабочий стол\Desctop\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\OneDrive\Рабочий стол\Desctop\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OneDrive\Рабочий стол\Desctop\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\OneDrive\Рабочий стол\Desctop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\OneDrive\Рабочий стол\Desctop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\OneDrive\Рабочий стол\Desctop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\OneDrive\Рабочий стол\Desctop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\OneDrive\Рабочий стол\Desctop\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\OneDrive\Рабочий стол\Desctop\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\OneDrive\Рабочий стол\Desctop\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\OneDrive\Рабочий стол\Desctop\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\OneDrive\Рабочий стол\Desctop\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\OneDrive\Рабочий стол\Desctop\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\OneDrive\Рабочий стол\Desctop\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\OneDrive\Рабочий стол\Desctop\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\OneDrive\Рабочий стол\Desctop\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\OneDrive\Рабочий стол\Desctop\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\OneDrive\Рабочий стол\Desctop\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\OneDrive\Рабочий стол\Desctop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\OneDrive\Рабочий стол\Desctop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\OneDrive\Рабочий стол\Desctop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\OneDrive\Рабочий стол\Desctop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\OneDrive\Рабочий стол\Desctop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\OneDrive\Рабочий стол\Desctop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\OneDrive\Рабочий стол\Desctop\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\OneDrive\Рабочий стол\Desctop\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\OneDrive\Рабочий стол\Desctop\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\OneDrive\Рабочий стол\Desctop\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\OneDrive\Рабочий стол\Desctop\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\OneDrive\Рабочий стол\Desctop\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\OneDrive\Рабочий стол\Desctop\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\OneDrive\Рабочий стол\Desctop\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive\Рабочий стол\Desctop\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive\Рабочий стол\Desctop\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive\Рабочий стол\Desctop\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive\Рабочий стол\Desctop\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\OneDrive\Рабочий стол\Desctop\obj\Debug\net6.0-windows\Desctop.csproj.AssemblyReference.cache
+D:\OneDrive\Рабочий стол\Desctop\obj\Debug\net6.0-windows\Desctop.FormLogin.resources
+D:\OneDrive\Рабочий стол\Desctop\obj\Debug\net6.0-windows\Desctop.FormRegData.resources
+D:\OneDrive\Рабочий стол\Desctop\obj\Debug\net6.0-windows\Desctop.FormRegistration.resources
+D:\OneDrive\Рабочий стол\Desctop\obj\Debug\net6.0-windows\Desctop.csproj.GenerateResource.cache
+D:\OneDrive\Рабочий стол\Desctop\obj\Debug\net6.0-windows\Desctop.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Рабочий стол\Desctop\obj\Debug\net6.0-windows\Desctop.AssemblyInfoInputs.cache
+D:\OneDrive\Рабочий стол\Desctop\obj\Debug\net6.0-windows\Desctop.AssemblyInfo.cs
+D:\OneDrive\Рабочий стол\Desctop\obj\Debug\net6.0-windows\Desctop.csproj.CoreCompileInputs.cache
+D:\OneDrive\Рабочий стол\Desctop\obj\Debug\net6.0-windows\Desctop.csproj.CopyComplete
+D:\OneDrive\Рабочий стол\Desctop\obj\Debug\net6.0-windows\Desctop.dll
+D:\OneDrive\Рабочий стол\Desctop\obj\Debug\net6.0-windows\refint\Desctop.dll
+D:\OneDrive\Рабочий стол\Desctop\obj\Debug\net6.0-windows\Desctop.pdb
+D:\OneDrive\Рабочий стол\Desctop\obj\Debug\net6.0-windows\Desctop.genruntimeconfig.cache
+D:\OneDrive\Рабочий стол\Desctop\obj\Debug\net6.0-windows\ref\Desctop.dll
